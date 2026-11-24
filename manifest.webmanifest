@@ -1,0 +1,27 @@
+{
+  "name": "انهض — اصنع النسخة التي تحلم بها",
+  "short_name": "انهض",
+  "description": "رحلة 105 يوم للعادات والتطوير الشخصي",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#f3f7f5",
+  "theme_color": "#0E6D57",
+  "lang": "ar",
+  "dir": "rtl",
+  "icons": [
+    {
+      "src": "icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
